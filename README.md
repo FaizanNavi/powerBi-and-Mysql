@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan</h1>
-<h3 align="center">The PowerBi and MySql both combine can be used in variace field like Fianace, technology and so on.</h3>
+<h3 align="center">The PowerBi and MySql both combine can be used in variace field like Fianace and technology</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
